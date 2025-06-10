@@ -33,5 +33,5 @@ openai
 python-dotenv
 faiss-cpu
 gunicorn
-
+flask
 
